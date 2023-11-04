@@ -4,7 +4,6 @@
 <h3 align="center">A Student from Singapore. Learning about the Vast Horizons of Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/20/68/d0/2068d0ec2ff20495819bc512149fe491.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t0fuuuu&label=Profile%20views&color=0e75b6&style=flat" alt="t0fuuuu" /> </p>
 
 - 🌱 I’m currently learning **Deep/Machine Learning**
 
